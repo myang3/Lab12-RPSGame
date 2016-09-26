@@ -1,0 +1,6 @@
+c:\users\mo\documents\visual studio 2015\Projects\Lab12 Roshambo\Lab12 Roshambo\bin\Debug\Lab12 Roshambo.exe.config
+c:\users\mo\documents\visual studio 2015\Projects\Lab12 Roshambo\Lab12 Roshambo\bin\Debug\Lab12 Roshambo.exe
+c:\users\mo\documents\visual studio 2015\Projects\Lab12 Roshambo\Lab12 Roshambo\bin\Debug\Lab12 Roshambo.pdb
+c:\users\mo\documents\visual studio 2015\Projects\Lab12 Roshambo\Lab12 Roshambo\obj\Debug\Lab12 Roshambo.csprojResolveAssemblyReference.cache
+c:\users\mo\documents\visual studio 2015\Projects\Lab12 Roshambo\Lab12 Roshambo\obj\Debug\Lab12 Roshambo.exe
+c:\users\mo\documents\visual studio 2015\Projects\Lab12 Roshambo\Lab12 Roshambo\obj\Debug\Lab12 Roshambo.pdb
