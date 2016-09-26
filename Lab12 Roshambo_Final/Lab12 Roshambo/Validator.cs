@@ -24,9 +24,11 @@ namespace Lab12_Roshambo
 
         public static string validateChoice()
         {
-           string choice = Console.ReadLine().ToLower(); 
+            string choice = "";
             do
             {
+                choice = Console.ReadLine().ToLower(); 
+
                 if (choice.ToLower() != "rock" && choice.ToLower() != "paper" && choice.ToLower() != "sissors")
                 {
                     Console.WriteLine("Invalid input, please try again: ");
