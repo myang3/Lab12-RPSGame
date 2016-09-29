@@ -29,11 +29,11 @@ namespace Lab12_Roshambo
             {
                 choice = Console.ReadLine().ToLower(); 
 
-                if (choice.ToLower() != "rock" && choice.ToLower() != "paper" && choice.ToLower() != "sissors")
+                if (choice.ToLower() != "rock" && choice.ToLower() != "paper" && choice.ToLower() != "scissors")
                 {
                     Console.WriteLine("Invalid input, please try again: ");
                 }
-            } while (choice.ToLower() != "rock" && choice.ToLower() != "paper" && choice.ToLower() != "sissors");
+            } while (choice.ToLower() != "rock" && choice.ToLower() != "paper" && choice.ToLower() != "scissors");
             return choice;
         }
     }
